@@ -10,3 +10,5 @@ Now add your readme file to your git staging area. Hint: use the git add command
 Then check your git status again. Can you see the difference?
 Try to unstage your file and check your git status again
 Ok, now for your first commit: Make sure your readme file is staged then type in git commit -m "initial commit" Your output should be something like this:
+
+Adding Some info!!!!
