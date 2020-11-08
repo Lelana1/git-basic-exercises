@@ -12,3 +12,6 @@ Try to unstage your file and check your git status again
 Ok, now for your first commit: Make sure your readme file is staged then type in git commit -m "initial commit" Your output should be something like this:
 
 Adding Some info!!!!
+
+
+hhdde
