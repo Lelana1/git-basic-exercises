@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Your initial commit
 Create a directory named git-basic-exercises
 cd into your new directory
@@ -17,3 +18,6 @@ Adding Some info!!!!
 hhdde
 
 Changes !!
+=======
+booya
+>>>>>>> History
